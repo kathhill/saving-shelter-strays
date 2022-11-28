@@ -1,6 +1,6 @@
 import React from "react"
 
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import Seo from "../components/Seo"
 import siteLogo from "../images/saving-shelter-strays-logo.png"
 import givingTuesdayLogoColor from "../images/giving-tuesday-logo-color-stacked.png"
